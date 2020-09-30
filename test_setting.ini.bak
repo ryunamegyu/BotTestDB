@@ -13,9 +13,9 @@ before_alert1 = 5
 mungChk = 10
 delmungcnt = 20
 
-bossInfoNum = 5
+bossInfoNum = 3
 
-restarttime = 05:30
+restarttime = 04:30
 restartPeriod = 1
 
 file_name = 
